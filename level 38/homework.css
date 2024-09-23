@@ -1,0 +1,22 @@
+h1{
+    text-align:center;
+    font-family:Roboto;
+}
+p{
+    color:rgb(0, 0, 0);
+    font-family:roboto;
+    text-align:left
+}
+img{
+    width:500px
+}
+button{
+    color:green;
+    background-color: black;
+}
+body{
+    background-color: orange;
+}
+table,td{
+    border:solid black 1px;
+}
